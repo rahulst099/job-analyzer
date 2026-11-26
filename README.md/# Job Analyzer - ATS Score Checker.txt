@@ -1,0 +1,25 @@
+# Job Analyzer - ATS Score Checker 🚀
+
+Apni Job Description aur Resume ko compare karke ATS Score nikalta hai.
+
+## Features
+- Real-time ATS Score Calculation
+- Matched & Missing Skills Detection
+- AI Suggestion for Resume Improvement
+- History Saved in MongoDB
+- PDF Resume Upload
+
+## Tech Stack
+- Frontend: React + Vite + Tailwind CSS
+- Backend: Node.js + Express
+- Database: MongoDB Atlas
+- Deployment: Vercel + Render
+
+## Live Demo
+Coming Soon...
+
+## How to Run Locally
+Backend: cd backend && npm start
+Frontend: cd frontend && npm run dev
+
+Made by Rahul Sharma
