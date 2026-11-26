@@ -1,25 +1,17 @@
-# Job Analyzer - ATS Score Checker 🚀
+# Job Analyzer - ATS Score Checker
 
-Apni Job Description aur Resume ko compare karke ATS Score nikalta hai.
+Resume upload karo, ATS Score pao, aur apni Dream Job ke liye ready ho jao.
 
 ## Features
-- Real-time ATS Score Calculation
-- Matched & Missing Skills Detection
-- AI Suggestion for Resume Improvement
-- History Saved in MongoDB
-- PDF Resume Upload
+- Resume Upload (PDF)
+- ATS Score Check
+- Skills Match
+- Job Description Match
 
 ## Tech Stack
-- Frontend: React + Vite + Tailwind CSS
-- Backend: Node.js + Express
-- Database: MongoDB Atlas
-- Deployment: Vercel + Render
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
 
-## Live Demo
-Coming Soon...
-
-## How to Run Locally
-Backend: cd backend && npm start
-Frontend: cd frontend && npm run dev
-
-Made by Rahul Sharma
+## Author
+Rahul Sharma - Java Full Stack Developer
